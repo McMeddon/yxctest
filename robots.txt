@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://mcmeddon.com/sitemap-index.xml
